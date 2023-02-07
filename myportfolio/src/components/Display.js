@@ -1,9 +1,7 @@
-import backgroundOne from '../assets/background.jpg'
-
 function Display() {
     return (
         <div className="container">
-            <div className="myName">
+            <div className="myName" id="home">
                 <div className="name text-center mt-5 mb-4">Richard Welte</div>
             </div>
             <div>
@@ -13,6 +11,7 @@ function Display() {
                 <img alt="display img" src="https://via.placeholder.com/300/09f.png/fff "/>
             </div>
             <div className="aboutMeContainer">
+                <h3 className="aboutMeHeader text-center fs-1 mt-5 mb-4" id="aboutMe"> About Me </h3>
                 <div className="aboutMe fs-4 mb-5 text-center fw-semibold lh-lg"> Welcome to my portfolio! I am a Web Developer enrolled in UPenn's coding bootcamp, graduating in March 2023.
                     I enjoy back end coding preffered to front end but am capable of both.
                     I have always enjoyed technology, ranging from video games, video editing, audio production, and development of all sorts.

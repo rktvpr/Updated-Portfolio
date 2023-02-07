@@ -2,7 +2,11 @@ body {
   background-image: url('./assets/background.jpg');
 }
 
-.name, .title, .aboutMe, .footerText, .phone {
+a {
+  text-decoration: none !important;
+}
+
+.name, .title, .aboutMe, .footerText, .phone, .aboutMeHeader, .linkedIn, .github, .email {
   color: rgb(214, 214, 214)
 }
 
@@ -17,10 +21,6 @@ body {
 
 .aboutMe {
   font-size: 30px;
-}
-
-.nav-link {
-  color:rgb(214, 214, 214)
 }
 
 .portfolioTitle {

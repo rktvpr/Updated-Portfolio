@@ -12,7 +12,7 @@ import passwordGenerator from '../assets/Password-generator.png'
 function Work() {
     return (
         <div className="portfolio">
-            <div className="portfolioTitle text-center mb-5"> My Portfolio</div>
+            <div className="portfolioTitle text-center mb-5" id="portfolioTitle"> My Portfolio</div>
             <div class="card mb-5">
                 <img src={PWA} class="card-img-top" alt="PWA-text-editor" />
                 <div class="card-body text-bg-secondary p-3 rounded-bottom">
