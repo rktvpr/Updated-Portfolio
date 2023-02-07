@@ -1,3 +1,5 @@
+import backgroundOne from '../assets/background.jpg'
+
 function Display() {
     return (
         <div className="container">

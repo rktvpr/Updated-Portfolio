@@ -1,6 +1,6 @@
 function Header() {
     return (
-        <nav class="navbar navbar-expand-lg bg-secondary sticky-top text-light">
+        <nav class="navbar navbar-expand-lg bg-light sticky-top text-light">
             <div class="container-fluid">
                 <a class="navbar-brand" href="Home">Richard Welte</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

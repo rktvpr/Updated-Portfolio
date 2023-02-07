@@ -1,14 +1,44 @@
+body {
+  background-image: url('./assets/background.jpg');
+}
+
+.name, .title, .aboutMe, .footerText, .phone {
+  color: rgb(214, 214, 214)
+}
+
 .name {
   font-size: 85px;
   font-family: 'Saira', sans-serif;
+}
+
+.title {
+  font-family: 'Special Elite', cursive;
 }
 
 .aboutMe {
   font-size: 30px;
 }
 
+.nav-link {
+  color:rgb(214, 214, 214)
+}
+
 .portfolioTitle {
-  font-size: 70px;
+  font-size: 75px;
+  font-family: 'Audiowide', cursive;
+  color:rgb(214, 214, 214)
+}
+
+.card {
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+@media screen and (max-width: 820px) {
+  .card {
+    margin-left: 75px;
+    margin-right: 75px;
+  }
 }
 
 
