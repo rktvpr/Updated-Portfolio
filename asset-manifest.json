@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Updated-portfolio/static/css/main.4126cc7c.css",
+    "main.js": "/Updated-portfolio/static/js/main.86299e5c.js",
+    "static/js/787.1f11dfe9.chunk.js": "/Updated-portfolio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/gritty-wear.png": "/Updated-portfolio/static/media/gritty-wear.1bc77f28b45ce5aa694e.png",
+    "static/media/team-profile.png": "/Updated-portfolio/static/media/team-profile.2fc1fb9b11fb5a28bcfd.png",
+    "static/media/IMG_3420.PNG": "/Updated-portfolio/static/media/IMG_3420.379a36312dbf14f380d4.PNG",
+    "static/media/Social-Media-API.png": "/Updated-portfolio/static/media/Social-Media-API.14eb60ba58023a9914ef.png",
+    "static/media/Employee.png": "/Updated-portfolio/static/media/Employee.f6aded762167c6ce23f7.png",
+    "static/media/background.jpg": "/Updated-portfolio/static/media/background.c485122e41e3a75122ea.jpg",
+    "static/media/E-Commerce.png": "/Updated-portfolio/static/media/E-Commerce.85e35cec9fdc8f3a9695.png",
+    "static/media/Weather-app.png": "/Updated-portfolio/static/media/Weather-app.556a2e73beb8948b7e1b.png",
+    "static/media/scheduler.png": "/Updated-portfolio/static/media/scheduler.6b8f1ed6b30009315eaf.png",
+    "static/media/Logo.png": "/Updated-portfolio/static/media/Logo.6d7bd122078e00a27357.png",
+    "static/media/Password-generator.png": "/Updated-portfolio/static/media/Password-generator.a2b5ff407417398e6125.png",
+    "static/media/Tech-blog.png": "/Updated-portfolio/static/media/Tech-blog.e6257a02264eb5fcc6af.png",
+    "static/media/Note-Taker.png": "/Updated-portfolio/static/media/Note-Taker.84f851e688197e822c37.png",
+    "static/media/PWA-text-editor.png": "/Updated-portfolio/static/media/PWA-text-editor.8af88fa3144bef094048.png",
+    "index.html": "/Updated-portfolio/index.html",
+    "main.4126cc7c.css.map": "/Updated-portfolio/static/css/main.4126cc7c.css.map",
+    "main.86299e5c.js.map": "/Updated-portfolio/static/js/main.86299e5c.js.map",
+    "787.1f11dfe9.chunk.js.map": "/Updated-portfolio/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4126cc7c.css",
+    "static/js/main.86299e5c.js"
+  ]
+}
