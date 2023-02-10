@@ -1,14 +1,16 @@
+import PFP from '../assets/IMG_3420.PNG'
+
 function Display() {
     return (
         <div className="container">
             <div className="myName" id="home">
-                <div className="name text-center mt-5 mb-4">Richard Welte</div>
+                <div className="name text-center mt-5 mb-4" id="name">Richard Welte</div>
             </div>
             <div>
                 <div className="title text-center fs-1 mb-4">Full Stack Web Developer</div>
             </div>
             <div className="ProfilePicture text-center mb-4">
-                <img alt="display img" src="https://via.placeholder.com/300/09f.png/fff "/>
+                <img className="ProfilePicture" alt="display img" src={PFP}/>
             </div>
             <div className="aboutMeContainer">
                 <h3 className="aboutMeHeader text-center fs-1 mt-5 mb-4" id="aboutMe"> About Me </h3>

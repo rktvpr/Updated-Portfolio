@@ -2,17 +2,49 @@ body {
   background-image: url('./assets/background.jpg');
 }
 
+.navbar {
+  /* background-image: url('./assets/Richard-Welte.png');
+  min-height: 250px; */
+  opacity: 75%;
+}
+
 a {
   text-decoration: none !important;
 }
 
-.name, .title, .aboutMe, .footerText, .phone, .aboutMeHeader, .linkedIn, .github, .email {
+.name,
+.title,
+.aboutMe,
+.footerText,
+.phone,
+.aboutMeHeader,
+.linkedIn,
+.github,
+.email {
   color: rgb(214, 214, 214)
 }
 
 .name {
   font-size: 85px;
   font-family: 'Saira', sans-serif;
+}
+
+.ProfilePicture {
+  min-height: 300px;
+  max-width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 180px;
+}
+
+.logo {
+  max-width: 65px;
+  border-radius: 180px;
+}
+
+.nav-item {
+  font-size: 25px;
 }
 
 .title {
@@ -26,7 +58,7 @@ a {
 .portfolioTitle {
   font-size: 75px;
   font-family: 'Audiowide', cursive;
-  color:rgb(214, 214, 214)
+  color: rgb(214, 214, 214)
 }
 
 .card {
@@ -40,5 +72,3 @@ a {
     margin-right: 75px;
   }
 }
-
-
